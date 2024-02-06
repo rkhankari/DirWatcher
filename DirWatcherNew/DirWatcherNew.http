@@ -1,0 +1,6 @@
+@DirWatcherNew_HostAddress = http://localhost:5249
+
+GET {{DirWatcherNew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
